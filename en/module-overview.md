@@ -1,4 +1,3 @@
-## Module Overview
 *   **Module 1 – Installation and Configuration (2015-01-19 – 2015-01-30)**
     *   Server vs. Client?
     *   VMware Workstation
