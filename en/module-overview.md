@@ -2,6 +2,7 @@
     *   Server vs. Client?
     *   VMware Workstation
     *   Installation
+    *   Basic configuration
 
 *   **Module 2 – Storage and Access controls (2015-02-02 – 2015-02-13)**
     *   File Systems: NTFS, EXT
