@@ -1,5 +1,6 @@
 In this first module you will learn the basics about server administration. 
 The following topic are included in this module:
+
 * Server vs. Client
 * Installation of server operative systems
 * Command line
