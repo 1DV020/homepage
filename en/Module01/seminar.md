@@ -1,5 +1,6 @@
 ##Introduction
 During this seminar, we will address the following topics:
+
 * Server Vs. Client
 * Installation
 * Post-Setup
