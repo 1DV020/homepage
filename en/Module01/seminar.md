@@ -1,10 +1,10 @@
 ##Introduction
 During this seminar, we will address the following topics:
-    * Server Vs. Client
-    * Installation
-    * Post-Setup
-    * Basic configuration
-    * Administrative Tools
+* Server Vs. Client
+* Installation
+* Post-Setup
+* Basic configuration
+* Administrative Tools
 
 Seminar questions can be found in the document below.
 [Seminar 1 - Questions.pdf](https://github.com/1DV020/Seminar/raw/master/Seminar%201/Seminar_1.pdf)
