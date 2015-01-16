@@ -8,7 +8,7 @@ During this seminar, we will address the following topics:
 * Administrative Tools
 
 Seminar questions can be found in the document below. <br />
-[Seminar 1 - Questions.pdf (<font color='red'>Not the final version</font> )](https://github.com/1DV020/Seminar/raw/master/Seminar%201/Seminar_1.pdf)
+[Seminar 1 - Questions.pdf](https://github.com/1DV020/Seminar/raw/master/Seminar%201/Seminar_1.pdf)
 
 ##Deadline
 The seminar is **28/1 2015** and it is compulsory.
