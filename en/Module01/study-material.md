@@ -33,6 +33,7 @@ Here you will find all the study materials you need to complete the seminar and 
         * 9.1.2 A Simple Template for Getting Started 243
         * 9.1.3 Easy Sources for Documentation 244
         * 9.1.4 The Power of Checklists 246
+
 ## Links   
 ### General Windows
 * [Windows Server Administration](http://en.wikiversity.org/wiki/Windows_Server_Administration)
@@ -66,4 +67,5 @@ Here you will find all the study materials you need to complete the seminar and 
 * [Installing Windows Server 2012](http://www.youtube.com/watch?v=3DLTo-j9qck)
 * [How to Configure Windows Server 2008 R2](http://www.youtube.com/watch?v=qjW4NSadIM8)
 * [Client Access Licenses (CALs) in Windows Server 2012](https://www.youtube.com/watch?v=UyfHOrhM_7U)
+
 ### Linux
