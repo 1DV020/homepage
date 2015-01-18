@@ -1,4 +1,4 @@
-![alt text](http://bearpm.com/wp-content/uploads/2013/07/work-in-progress.png "Work in progress")
+![alt text](http://bearpm.com/wp-content/uploads/2013/07/work-in-progress.png "Work in progress") <br />
 Here you will find all the study materials you need to complete the seminar and lab.
 
 ## Literature
@@ -6,7 +6,7 @@ Here you will find all the study materials you need to complete the seminar and 
 ## Links   
 ### General Windows
 
-*[The History of Windows](http://windows.microsoft.com/sv-se/windows/history#T1=era0)
+* [The History of Windows](http://windows.microsoft.com/en-us/windows/history#T1=era0)
 
 ### Powershell
 * [Scripting with Windows PowerShell](http://technet.microsoft.com/en-us/library/bb978526.aspx)
