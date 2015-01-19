@@ -56,6 +56,8 @@ Here you will find all the study materials you need to complete the seminar and 
     - [Installing and Upgrading](http://www.linux-tutorial.info/modules.php?name=MContent&pageid=200)
 
 * [DistroWatch - (Linux Servers)](http://distrowatch.com/search.php?category=Server)
+* [Setting default Gateway and route](http://www.cyberciti.biz/faq/linux-setup-default-gateway-with-route-command/)
+* [Static network interfaces configuration](http://www.cyberciti.biz/faq/setting-up-an-network-interfaces-file/)
 
 ### IPTables
 
