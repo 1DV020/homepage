@@ -7,12 +7,14 @@
 *   **Module 2 – Storage and Access controls (2015-02-02 – 2015-02-13)**
     *   File Systems: NTFS, EXT
     *   Access Control
+    *   Local Users and Groups
     *   Storage – RAID
+    *   File server
 
 *   **Module 3 – Roles and Features  (2015-02-16 – 2015-02-27)**
-    *   DNS
+    *   DNS	- bind
     *   DHCP
-    *   File server
+    *   Web Server
     *   Other Roles and Features
 
 *   **Module 4 – Directory Services (2015-03-02 – 2015-03-06)**
