@@ -1,3 +1,3 @@
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/DT044sDR4Kg&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/DT044sDR4Kg&hl=en&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
+The video below is an recording of the course introduction.
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/DT044sDR4Kg" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="480" src="//www.youtube.com/embed/DT044sDR4Kg" frameborder="0" allowfullscreen></iframe>
