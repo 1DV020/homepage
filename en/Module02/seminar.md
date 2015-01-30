@@ -7,7 +7,7 @@ During this seminar, we will address the following topics:
 * File server - SMB and Samba
 
 Seminar questions can be found in the document below. <br />
-[Seminar x - Questions.pdf](https://github.com/1DV020/Seminar/raw/master/Seminar%202/Seminar_2.pdf)
+[Seminar 2 - Questions.pdf](https://github.com/1DV020/Seminar/raw/master/Seminar%202/Seminar_2.pdf)
 
 ##Deadline
 The seminar is **11/02 2015** and it is compulsory.
