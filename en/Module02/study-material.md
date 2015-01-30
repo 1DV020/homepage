@@ -21,16 +21,26 @@ Here you will find all the study materials you need to complete the seminar and 
         * 11.3.5 University 320
     * 11.4 Conclusion 321
 
-## Links   
+## Links 
+### General
+* [RAID](http://en.wikipedia.org/wiki/RAID)  
 ### Windows
-* [Link name](link)
+* [Windows Server 2012 Storage Virtualization Explained](http://blogs.technet.com/b/yungchou/archive/2012/08/31/windows-server-2012-storage-virtualization-explained.aspx)
+* [NTFS](http://en.wikipedia.org/wiki/NTFS#Versions)
+* [Server Message Block](http://en.wikipedia.org/wiki/Server_Message_Block)
+* [NTFS File and Folder Permissions](http://www.sqa.org.uk/e-learning/NetInf103CD/page_17.htm)
+* [NTFS Permissions](https://technet.microsoft.com/sv-se/magazine/2006.01.howitworksntfs(en-us).aspx)
+* 
 
 ### Linux
-* [Link name](link)
+* [Linux Filesystems Explained](https://help.ubuntu.com/community/LinuxFilesystemsExplained)
+* [Understanding /etc/passwd File Format](http://www.cyberciti.biz/faq/understanding-etcpasswd-file-format/)
+* [FilePermissions](https://help.ubuntu.com/community/FilePermissions)
 
 ## Video
 ### Microsoft Windows Server
-* [Link name](link)
+* [Different RAID setups in a Server 2008](http://youtu.be/l80yqK-JRSA?t=6m2s)
+* [NTFS File & Folder Permissions - Windows Server 2012 R2](https://www.youtube.com/watch?v=XQNYkUwmV5E)
 
 ### Linux
 * [Link name](link)
