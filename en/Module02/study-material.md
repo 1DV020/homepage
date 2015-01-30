@@ -24,6 +24,7 @@ Here you will find all the study materials you need to complete the seminar and 
 ## Links 
 ### General
 * [RAID](http://en.wikipedia.org/wiki/RAID)  
+
 ### Windows
 * [Windows Server 2012 Storage Virtualization Explained](http://blogs.technet.com/b/yungchou/archive/2012/08/31/windows-server-2012-storage-virtualization-explained.aspx)
 * [NTFS](http://en.wikipedia.org/wiki/NTFS#Versions)
