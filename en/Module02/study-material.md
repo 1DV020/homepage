@@ -31,18 +31,16 @@ Here you will find all the study materials you need to complete the seminar and 
 * [Server Message Block](http://en.wikipedia.org/wiki/Server_Message_Block)
 * [NTFS File and Folder Permissions](http://www.sqa.org.uk/e-learning/NetInf103CD/page_17.htm)
 * [NTFS Permissions](https://technet.microsoft.com/sv-se/magazine/2006.01.howitworksntfs(en-us).aspx)
-* 
+* [Sharing folders in windows server 2012](http://www.techrepublic.com/blog/data-center/how-to-share-a-folder-in-windows-server-2012/)
 
 ### Linux
 * [Linux Filesystems Explained](https://help.ubuntu.com/community/LinuxFilesystemsExplained)
 * [Understanding /etc/passwd File Format](http://www.cyberciti.biz/faq/understanding-etcpasswd-file-format/)
 * [FilePermissions](https://help.ubuntu.com/community/FilePermissions)
-
+* [Samba configuration file](https://www.samba.org/samba/docs/man/manpages-3/smb.conf.5.html)
+* [History of Samba](http://www.rxn.com/services/faq/smb/samba.history.txt)
+* 
 ## Video
 ### Microsoft Windows Server
 * [Different RAID setups in a Server 2008](http://youtu.be/l80yqK-JRSA?t=6m2s)
 * [NTFS File & Folder Permissions - Windows Server 2012 R2](https://www.youtube.com/watch?v=XQNYkUwmV5E)
-
-### Linux
-* [Link name](link)
- 
