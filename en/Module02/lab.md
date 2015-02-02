@@ -3,7 +3,7 @@
 
 Lab memo will be found below
 
-[Lab x.pdf](https://github.com/1DV020/labs/raw/master/Lab%20x/Lab_2.pdf)
+[Lab 2.pdf](https://github.com/1DV020/labs/raw/master/Lab%202/Lab_2.pdf)
 
 If you somewhere get stuck and need directions for reading you can mail kscje09@student.lnu.se, but try to be specific of what problem you are facing. 
 
