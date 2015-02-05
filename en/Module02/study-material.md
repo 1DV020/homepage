@@ -30,13 +30,19 @@
 * [NTFS Permissions](https://technet.microsoft.com/sv-se/magazine/2006.01.howitworksntfs(en-us).aspx)
 * [Sharing folders in windows server 2012](http://www.techrepublic.com/blog/data-center/how-to-share-a-folder-in-windows-server-2012/)
 
-### Linux
+### Linux filesystem & permissions
 * [Linux Filesystems Explained](https://help.ubuntu.com/community/LinuxFilesystemsExplained)
 * [Understanding /etc/passwd File Format](http://www.cyberciti.biz/faq/understanding-etcpasswd-file-format/)
 * [FilePermissions](https://help.ubuntu.com/community/FilePermissions)
-* [Samba configuration file](https://www.samba.org/samba/docs/man/manpages-3/smb.conf.5.html)
+* [Installing a new harddrive](https://help.ubuntu.com/community/InstallingANewHardDrive#Introduction)
+
+
+### Samba
+
 * [History of Samba](http://www.rxn.com/services/faq/smb/samba.history.txt)
-* 
+* [Basic Samba share](https://help.ubuntu.com/community/How%20to%20Create%20a%20Network%20Share%20Via%20Samba%20Via%20CLI%20%28Command-line%20interface/Linux%20Terminal%29%20-%20Uncomplicated,%20Simple%20and%20Brief%20Way!)
+* [Samba configuration file](https://www.samba.org/samba/docs/man/manpages-3/smb.conf.5.html)
+
 ## Video
 ### Microsoft Windows Server
 * [Different RAID setups in a Server 2008](http://youtu.be/l80yqK-JRSA?t=6m2s)
