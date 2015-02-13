@@ -23,7 +23,18 @@ Here you will find all the study materials you need to complete the seminar and 
 * [Link name](link)
 
 ### Linux
-* [Link name](link)
+* [Apache - Getting Started](http://httpd.apache.org/docs/2.4/getting-started.html)
+* [Apache - Log files](http://httpd.apache.org/docs/2.4/logs.html)
+* [Apache - Module Index](http://httpd.apache.org/docs/2.4/mod/)
+* [Apache - Virtual Host documentation](http://httpd.apache.org/docs/2.4/vhosts/)
+* [Apache - VirtualHost Examples](http://httpd.apache.org/docs/2.4/vhosts/examples.html)
+* [Apache - Configuration Sections](http://httpd.apache.org/docs/2.4/sections.html)
+* [HTTP Made Really Easy](http://www.jmarshall.com/easy/http/)
+* [a2ensite, a2dissite](http://manpages.ubuntu.com/manpages/precise/man8/a2ensite.8.html)
+* [a2enconf, a2disconf](http://manpages.ubuntu.com/manpages/utopic/en/man8/a2enconf.8.html)
+* [a2enmod, a2dismod](http://manpages.ubuntu.com/manpages/utopic/en/man8/a2enmod.8.html)
+* [Apache vs Nginx: Practical Considerations](https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations)
+
 
 ## Video
 ### Microsoft Windows Server
