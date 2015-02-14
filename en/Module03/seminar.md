@@ -4,7 +4,6 @@ During this seminar, we will address the following topics:
 * DNS
 * DHCP
 * Web Server
-*
 
 Seminar questions can be found in the document below. <br />
 [Seminar 3 - Questions.pdf](https://github.com/1DV020/Seminar/raw/master/Seminar%203/Seminar_3.pdf)
