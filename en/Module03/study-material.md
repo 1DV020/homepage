@@ -18,11 +18,6 @@
 ## Links   
 ### General
 * [How DNS Works](https://technet.microsoft.com/en-us/library/cc772774(v=ws.10).aspx)
-* [The Linux Tutorial - The Domain Name System](http://www.linux-tutorial.info/modules.php?name=MContent&pageid=147)
-    - [Configuring the Domain Name System DNS](http://www.linux-tutorial.info/modules.php?name=MContent&pageid=148)
-    - [DHCP](http://www.linux-tutorial.info/modules.php?name=MContent&pageid=149)
-    - [Apache Overview HOWTO](http://www.linux-tutorial.info/modules.php?name=Howto&pagename=Apache-Overview-HOWTO/Apache-Overview-HOWTO-2.html)
-
 
 ### Windows
 * [DNS Server](https://technet.microsoft.com/en-us/windowsserver/dd448607.aspx)
@@ -43,7 +38,10 @@
 * [a2enconf, a2disconf](http://manpages.ubuntu.com/manpages/utopic/en/man8/a2enconf.8.html)
 * [a2enmod, a2dismod](http://manpages.ubuntu.com/manpages/utopic/en/man8/a2enmod.8.html)
 * [Apache vs Nginx: Practical Considerations](https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations)
-
+* [The Linux Tutorial - The Domain Name System](http://www.linux-tutorial.info/modules.php?name=MContent&pageid=147)
+    - [Configuring the Domain Name System DNS](http://www.linux-tutorial.info/modules.php?name=MContent&pageid=148)
+    - [DHCP](http://www.linux-tutorial.info/modules.php?name=MContent&pageid=149)
+    - [Apache Overview HOWTO](http://www.linux-tutorial.info/modules.php?name=Howto&pagename=Apache-Overview-HOWTO/Apache-Overview-HOWTO-2.html)
 
 ## Video
 ### General
