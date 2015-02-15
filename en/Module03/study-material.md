@@ -1,6 +1,3 @@
-![alt text](http://bearpm.com/wp-content/uploads/2013/07/work-in-progress.png "Work in progress") <br />
-Here you will find all the study materials you need to complete the seminar and lab.
-
 ## Literature
 ### The Practice of System and Network Administration
 * 3 Workstations 41
@@ -21,11 +18,17 @@ Here you will find all the study materials you need to complete the seminar and 
 ## Links   
 ### General
 * [How DNS Works](https://technet.microsoft.com/en-us/library/cc772774(v=ws.10).aspx)
-* 
+* [The Linux Tutorial - The Domain Name System](http://www.linux-tutorial.info/modules.php?name=MContent&pageid=147)
+    - [Configuring the Domain Name System DNS](http://www.linux-tutorial.info/modules.php?name=MContent&pageid=148)
+    - [DHCP](http://www.linux-tutorial.info/modules.php?name=MContent&pageid=149)
+    - [Apache Overview HOWTO](http://www.linux-tutorial.info/modules.php?name=Howto&pagename=Apache-Overview-HOWTO/Apache-Overview-HOWTO-2.html)
 
 
 ### Windows
-* 
+* [DNS Server](https://technet.microsoft.com/en-us/windowsserver/dd448607.aspx)
+* [Installing and Configuring DHCP role on Windows Server 2012](http://blogs.technet.com/b/teamdhcp/archive/2012/08/31/installing-and-configuring-dhcp-role-on-windows-server-2012.aspx)
+* [Windows Server 2012 DHCP (Part 1)](http://www.windowsnetworking.com/articles-tutorials/windows-server-2012/windows-server-2012-dhcp-part1.html)
+* [Windows Server 2012 DHCP (Part 2)](http://www.windowsnetworking.com/articles-tutorials/windows-server-2012/windows-server-2012-dhcp-part2.html)
 
 ### Linux
 * [Install & Configure the BIND DNS Server](http://www.danscourses.com/Linux-Fundamentals/install-a-configure-the-bind-dns-server.html)
