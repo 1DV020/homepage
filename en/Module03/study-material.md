@@ -26,7 +26,13 @@
 * [Windows Server 2012 DHCP (Part 2)](http://www.windowsnetworking.com/articles-tutorials/windows-server-2012/windows-server-2012-dhcp-part2.html)
 
 ### Linux
+
+#### Bind9
 * [Install & Configure the BIND DNS Server](http://www.danscourses.com/Linux-Fundamentals/install-a-configure-the-bind-dns-server.html)
+* [How to configure bind as a caching or forwarding DNS server](https://www.digitalocean.com/community/tutorials/how-to-configure-bind-as-a-caching-or-forwarding-dns-server-on-ubuntu-14-04)
+* [Bind9 - HOWTO - Delegate a Sub-domain (a.k.a. subzone) ](http://www.zytrax.com/books/dns/ch9/delegate.html)
+
+#### Apache
 * [Apache - Getting Started](http://httpd.apache.org/docs/2.4/getting-started.html)
 * [Apache - Log files](http://httpd.apache.org/docs/2.4/logs.html)
 * [Apache - Module Index](http://httpd.apache.org/docs/2.4/mod/)
