@@ -1,7 +1,9 @@
 ##Introduction
-In this Laboration we will cover 3 concepts: DHCP, DNS and a Web server -  and see how they work together. As previously we will be using the lab from where we left off. We will also introduce a new VMNet (VMNet5) that will be having our DMZ on.
+In this Laboration we will cover 3 concepts: DHCP, DNS and a Web server -
+and see how they work together. As previously we will be using the lab from
+where we left off. We will also introduce a new VMNet (5) and add another server there - dmzserver.
 
-The Linux server will be the main DNS for mycompany.lab. The Linux server will also act as webserver for mycompany.lab and the windows server will be responsible for handing out IPa ddresses with DHCP.
+Our previous Linux server will act as a DNS for mycompany.lab. The new dmzserver will act as our web server for mycompany.lab and the windows server will be responsible for handing out IP addresses with DHCP.
 
 Lab memo will be found below
 
