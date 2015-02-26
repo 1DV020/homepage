@@ -20,6 +20,7 @@
 *   **Module 4 – Directory Services (2015-03-02 – 2015-03-06)**
     *   Active Directory
     *   Group Policy
+    *   Access Control
 
 *   **Module 5 – Reliability, Performance and Troubleshooting (2015-03-09 – 2015-03-13)**
     *   Backup
