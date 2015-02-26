@@ -13,4 +13,4 @@ If you somewhere get stuck and need directions for reading you can mail kscje09@
 
 ##Deadline
 
-You should present your solution at one of the lab seminars either on the 26/3 or 27/3 - 2015. The requirements will be tested. That includes restarting the machines to see that the changes you have made are persistant.
+You should present your solution at one of the lab seminars either on the 26/2 or 27/2 - 2015. The requirements will be tested. That includes restarting the machines to see that the changes you have made are persistant.
