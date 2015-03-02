@@ -18,8 +18,6 @@ Here you will find all the study materials you need to complete the seminar and 
 
 *[AGDLP](https://www.youtube.com/watch?v=zHHzjjqVhTc )
 
-*[A G/U DL P strategy](https://www.youtube.com/watch?v=yjPGRnxAU6M)
-
 
 ### Microsoft Windows Server
 
