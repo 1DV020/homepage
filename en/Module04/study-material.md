@@ -30,3 +30,4 @@ Here you will find all the study materials you need to complete the seminar and 
 * [Managing User profiles](https://msdn.microsoft.com/en-us/library/bb726990.aspx)
 * [Setting up Logon Scripts A.D](http://www.petri.com/setting-up-logon-script-through-active-directory-users-computers-windows-server-2008.htm)
 * [Grant members the right to logon locally](https://technet.microsoft.com/en-us/library/ee957044%28v=ws.10%29.aspx )
+* [Roaming Profiles in Windows Server 2012](https://www.youtube.com/watch?v=usqq8wZn_Dg)
