@@ -22,7 +22,7 @@ Here you will find all the study materials you need to complete the seminar and 
 
 * [What is a Directory  Service?(msdn)](https://msdn.microsoft.com/en-us/library/aa367035%28v=vs.85%29.aspx)
 * [So what is Active Directory(msdn)](https://msdn.microsoft.com/en-us/library/aa746492%28v=vs.85%29.aspx) 
-*[Active Directory Architecture](https://msdn.microsoft.com/en-us/library/bb727030.aspx)
+* [Active Directory Architecture](https://msdn.microsoft.com/en-us/library/bb727030.aspx)
 * [Active Directory Structure](https://technet.microsoft.com/en-us/library/cc181267.aspx) 
 * [TN Domains: Active Directory ](https://technet.microsoft.com/en-us/library/cc780856%28v=ws.10%29.aspx)
 * [How the Active Directory Schema works](https://technet.microsoft.com/en-us/library/cc773309%28v=ws.10%29.aspx)
