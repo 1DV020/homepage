@@ -10,6 +10,7 @@ Here you will find all the study materials you need to complete the seminar and 
 * [Active Directory Introduction Part 2](https://www.youtube.com/watch?v=Ex8MAg-OeZo)
 * [Working with Active Directory Users and Computers(ADUC)](https://www.youtube.com/watch?v=H5S5jGquicg )
 * [AGDLP](https://www.youtube.com/watch?v=zHHzjjqVhTc )
+* [Introduction to Security with Group Policy Objects and Organizational Units in Windows Server 2012](https://www.youtube.com/watch?v=KSTKGChQus0)
 
 
 ### Microsoft Windows Server
@@ -27,3 +28,4 @@ Here you will find all the study materials you need to complete the seminar and 
 * [Organiztional units](https://technet.microsoft.com/sv-se/library/cc758565%28v=ws.10%29.aspx)
 * [Managing User profiles](https://msdn.microsoft.com/en-us/library/bb726990.aspx)
 * [Setting up Logon Scripts A.D](http://www.petri.com/setting-up-logon-script-through-active-directory-users-computers-windows-server-2008.htm)
+* [Grant members the right to logon locally](https://technet.microsoft.com/en-us/library/ee957044%28v=ws.10%29.aspx )
