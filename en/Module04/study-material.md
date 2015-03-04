@@ -11,6 +11,7 @@ Here you will find all the study materials you need to complete the seminar and 
 * [Working with Active Directory Users and Computers(ADUC)](https://www.youtube.com/watch?v=H5S5jGquicg )
 * [AGDLP](https://www.youtube.com/watch?v=zHHzjjqVhTc )
 * [Introduction to Security with Group Policy Objects and Organizational Units in Windows Server 2012](https://www.youtube.com/watch?v=KSTKGChQus0)
+* [Adding Windows Computers to a Windows Server 2012 Domain](https://www.youtube.com/watch?v=h9fmQ0crCsg)
 
 
 ### Microsoft Windows Server
