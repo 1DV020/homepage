@@ -1,5 +1,7 @@
 ##Introduction
+For this module we will work with Active Directory and look at some of the concepts herein. After installing the A.D D.S role we start of by implementing an AGDLP strategy under certain parameters - the exact structure and naming convention will be up to you.
 
+We will then setup group policies on these and assure that we have a proper delegation of control. 
 
 Lab memo will be found below
 
