@@ -15,11 +15,4 @@
 ### Practical
 
 * [Command line tools to monitor linux performance](http://www.tecmint.com/command-line-tools-to-monitor-linux-performance/)
-
-## Video
-### Microsoft Windows Server
-* [Link name](link)
-
-### Linux
-* [Link name](link)
  
