@@ -6,24 +6,43 @@ For the practical part we will cover some of the monitoring tools in Linux. Choo
 [A short overview](http://www.tecmint.com/command-line-tools-to-monitor-linux-performance/)
 
 Top
+
 VmStat
+
 Lsof
+
 Tcpdump
+
 Netstat
+
 Htop
+
 Iotop
+
 Iostat
+
 IPTraf
+
 Psacct
+
 Monit
+
 NetHogs
+
 iftop
+
 Monitorix
+
 Arpwatch
+
 Suricata
+
 VnStat PHP
+
 Nagios
+
 Nmon
+
 Collectl
 
 Then go to the forum page and make sure that your selected tool are available and post it. Some of the tools(like Nagios) might take some time to setup, then it is ok to just write what it can do and how it work. For some other tools the more basic (install and run) - you should also try it out and report the findings.
