@@ -9,4 +9,4 @@ If you somewhere get stuck and need directions for reading you can mail Mirza Du
 
 ##Deadline
 
-You should present your solution at one of the lab either on the **12/2 - 2016**. The requirements will be tested. That includes restarting the machines to see that the changes you have made are persistant.
+You should present your solution at one of the lab either on the **12/2 - 2016**. The requirements will be tested. That includes restarting the machines to see that the changes you have made are persistent.
