@@ -60,7 +60,7 @@
 * [The Domain Name System (DNS) Name Resolution Process](https://www.youtube.com/watch?v=S8G63sJPPj0)
 * [What is a web server](https://www.youtube.com/watch?v=54n_iXocB6o)
 
-### Microsoft Windows Server
+### Microsoft Windows Server 2012
 * [How to Install the DNS Service on Server 2012 (Step by Step)](https://www.youtube.com/watch?v=-5_KGCH1nzY)
 * [Dynamic Host Configuration Protocol (DHCP) Tutorial](https://www.youtube.com/watch?v=unn6ZlB7BRI)
 
