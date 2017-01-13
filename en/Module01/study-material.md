@@ -1,37 +1,12 @@
 Here you will find all the study materials you need to complete the seminar and lab.
 
 ## Literature
-### The Practice of System and Network Administration
-* 1 What to Do When . . . 3 – 26
-* 2 Climb Out of the Hole 27
-    * 2.1 Tips for Improving System Administration 28
-        * 2.1.1 Use a Trouble-Ticket System 28
-        * 2.1.2 Manage Quick Requests Right 29
-        * 2.1.3 Adopt Three Time-Saving Policies 30
-        * 2.1.4 Start Every New Host in a Known State 32
-        * 2.1.5 Follow Our Other Tips 33
-* 2.2 Conclusion 36
-* 3 Workstations 41
-    * 3.1 The Basics 44
-        * 3.1.1 Loading the OS 46
-        * 3.1.2 Updating the System Software and Applications 54
-* 4 Servers 69
-    * 4.1 The Basics 69
-        * 4.1.1 Buy Server Hardware for Servers 69
-        * 4.1.2 Choose Vendors Known for Reliable Products 72
-        * 4.1.3 Understand the Cost of Server Hardware 72
-        * 4.1.4 Consider Maintenance Contracts and Spare Parts 74
-        * 4.1.5 Maintaining Data Integrity 78
-        * 4.1.6 Put Servers in the Data Center 78
-        * 4.1.7 Client Server OS Configuration 79
-        * 4.1.8 Provide Remote Console Access 80
-        * 4.1.9 Mirror Boot Disks 83
-* 9 Documentation 241
-    * 9.1 The Basics 242
-        * 9.1.1 What to Document 242
-        * 9.1.2 A Simple Template for Getting Started 243
-        * 9.1.3 Easy Sources for Documentation 244
-        * 9.1.4 The Power of Checklists 246
+### The Practice of System and Network Administration 3rd
+* 01 Climb Out of the Hole
+* 05 Workstation Architecture
+* 08 OS Installation Strategies
+* 14 Server Hardware Features
+* 31 Documentation
 
 ## Links   
 ### General Windows
