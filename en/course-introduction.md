@@ -1,2 +1,3 @@
 The video below is an recording of the course introduction.
-**Will be available after the course introduction.**
+
+<iframe width="640" height="480" src="//www.youtube.com/embed/Tzr0DkidVq0" frameborder="0" allowfullscreen></iframe>
