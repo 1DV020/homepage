@@ -9,6 +9,7 @@
 * [RAID](http://en.wikipedia.org/wiki/RAID)  
 
 ### Windows
+* [Manage a Server Core Server](https://technet.microsoft.com/en-us/library/jj574205(v=ws.11).aspx#BKMK_1.4)
 * [Windows Server 2012 Storage Virtualization Explained](http://blogs.technet.com/b/yungchou/archive/2012/08/31/windows-server-2012-storage-virtualization-explained.aspx)
 * [NTFS](http://en.wikipedia.org/wiki/NTFS#Versions)
 * [Server Message Block](http://en.wikipedia.org/wiki/Server_Message_Block)
