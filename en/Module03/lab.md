@@ -1,4 +1,6 @@
 ## Introduction
+<iframe width="640" height="360" src="//www.youtube.com/embed/sZ4SD9VKdxw" frameborder="0" allowfullscreen></iframe>
+
 In this lab we will cover 2 concepts: DNS and a Web server -
 and see how they work together. As previously we will be using the lab from
 where we left off.
