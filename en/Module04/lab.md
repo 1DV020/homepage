@@ -11,7 +11,7 @@ If you somewhere get stuck and need directions for reading you can mail Petko Ge
 
 ## Deadline
 
-You should present your solution at one of the lab session no later then 3/3 - 2017. The requirements will be tested. That includes restarting the machines to see that the changes you have made are persistent.
+You should present your solution at one of the lab session no later then 10/3 - 2017. The requirements will be tested. That includes restarting the machines to see that the changes you have made are persistent.
 
 
 ## Reference Demos
