@@ -1,7 +1,7 @@
 ## Literature
 ### The Practice of System and Network Administration
-* Chapter 26 Backup
-* Chapter 15 Debug
+* Chapter 44 Backup & Restore
+* Chapter 29 Debuging
 
 ## Links   
 ### Windows
