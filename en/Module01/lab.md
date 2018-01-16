@@ -20,4 +20,4 @@ If you somewhere get stuck and need directions for reading you can mail Maxim Kr
 
 ##Deadline
 
-You should present your solution at the lab on the **26/1 - 2018**. The requirements will be tested. That includes restarting the machines to see that the changes you have made are persistent.
+You should present your solution at the lab on the **24/1 - 2018**. The requirements will be tested. That includes restarting the machines to see that the changes you have made are persistent.
