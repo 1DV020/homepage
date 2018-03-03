@@ -27,7 +27,7 @@ For the practical part we will cover some of the monitoring tools in Linux. Choo
 Then go to the forum page and make sure that your selected tools are available and post it. Some of the tools(like Nagios) might take some time to setup, then it is ok to just write what it can do and how it works. For some other tools the more basic (install and run) - you should also try it out and report the findings.
 
 ## Deadline
-Present your tools on **Tuesday 14/3 2017**.
+Present your tools on **Friday 16/3 2018**.
 We will conduct the presentations in the labrooms, D1142, between **08.15-12.00** - Be on time.
 
 If you for some reason are unable to show up you will instead have to send in a written report on at least 5 pages.
