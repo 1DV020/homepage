@@ -16,5 +16,5 @@ Lab memo below
 
 [Lab 1.pdf](https://github.com/1DV020/labs/raw/master/Lab%201/Lab_1.pdf)
 
-If you somewhere get stuck and need directions for reading you can mail Maxim Kravchenko <mk223hm@student.lnu.se>, but try to be specific of what problem you are facing. You are also recommended to keep a well documented overview of the network and configuration files you have worked with.
+If you somewhere get stuck and need directions ask your question on Slack, but try to be specific of what problem you are facing. You are also recommended to keep a well documented overview of the network and configuration files you have worked with.
 
