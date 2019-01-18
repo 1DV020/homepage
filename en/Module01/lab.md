@@ -18,6 +18,3 @@ Lab memo below
 
 If you somewhere get stuck and need directions for reading you can mail Maxim Kravchenko <mk223hm@student.lnu.se>, but try to be specific of what problem you are facing. You are also recommended to keep a well documented overview of the network and configuration files you have worked with.
 
-##Deadline
-
-You should present your solution at the lab on the **24/1 - 2018**. The requirements will be tested. That includes restarting the machines to see that the changes you have made are persistent.
