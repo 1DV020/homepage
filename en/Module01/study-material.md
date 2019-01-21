@@ -14,7 +14,6 @@ Here you will find all the study materials you need to complete the seminar and 
     - [Introduction](http://en.wikiversity.org/wiki/Windows_Server_Administration/Introduction)
     - [Installation](http://en.wikiversity.org/wiki/Windows_Server_Administration/Installation)
     - [Configuration](http://en.wikiversity.org/wiki/Windows_Server_Administration/Configuration)
-* [The History of Windows](http://windows.microsoft.com/en-us/windows/history#T1=era0)
 * [Windows Firewall with Advanced Security](http://technet.microsoft.com/en-us/library/ff602926(v=ws.10).aspx)
 
 ### Powershell
