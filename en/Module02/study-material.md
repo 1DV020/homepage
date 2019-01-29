@@ -23,12 +23,16 @@
 * [FilePermissions](https://help.ubuntu.com/community/FilePermissions)
 * [Installing a new harddrive](https://help.ubuntu.com/community/InstallingANewHardDrive#Introduction)
 
-
 ### Samba
 
 * [History of Samba](http://www.rxn.com/services/faq/smb/samba.history.txt)
 * [Basic Samba share](https://help.ubuntu.com/community/How%20to%20Create%20a%20Network%20Share%20Via%20Samba%20Via%20CLI%20%28Command-line%20interface/Linux%20Terminal%29%20-%20Uncomplicated,%20Simple%20and%20Brief%20Way!)
 * [Samba configuration file](https://www.samba.org/samba/docs/man/manpages-3/smb.conf.5.html)
+
+### NFS
+* [Network File System](https://en.wikipedia.org/wiki/Network_File_System)
+* [Network File System (NFS) on Ubuntu](https://help.ubuntu.com/lts/serverguide/network-file-system.html.en)
+* [Setting Up NFS HowTo](https://help.ubuntu.com/community/SettingUpNFSHowTo)
 
 ## Video
 ### Microsoft Windows Server
