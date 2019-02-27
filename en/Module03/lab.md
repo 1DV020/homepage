@@ -9,7 +9,6 @@ Lab memo will be found below
 
 [Lab 3.pdf](https://github.com/1DV020/labs/raw/master/Lab%203/Lab_3.pdf)
 
-
 If you somewhere get stuck and need directions ask your question on Slack, but try to be specific of what problem you are facing. You are also recommended to keep a well documented overview of the network and configuration files you have worked with.
 
 ## Reference Demos
